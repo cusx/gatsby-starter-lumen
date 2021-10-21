@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://u.nsrow.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Demo on Gatsby Cloud',
+  subtitle: 'Hosted on Gatsby Cloud',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
